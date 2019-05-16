@@ -1,0 +1,44 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "laptop"
+		},
+		{
+			"id": 2,
+			"name": "pc"
+		},
+		{
+			"id": 3,
+			"name": "smartphone"
+		},
+		{
+			"id": 4,
+			"name": "nintendo-switch"
+		},
+		{
+			"id": 5,
+			"name": "ps4"
+		},
+		{
+			"id": 6,
+			"name": "xbox-one"
+		},
+		{
+			"id": 7,
+			"name": "printer"
+		},
+		{
+			"id": 8,
+			"name": "game1"
+		},
+		{
+			"id": 9,
+			"name": "game2"
+		},
+		{
+			"id": 10,
+			"name": "game3"
+		}
+	]
+}
